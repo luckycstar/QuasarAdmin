@@ -1,0 +1,20 @@
+[1228/105551.381:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1229/113655.859:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1230/113657.084:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1231/113657.096:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1231/231156.791:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0102/070001.710:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0103/070002.713:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0104/100223.737:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0104/110735.220:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\ONE\AppData\Local\Slimjet\User Data\Crash Reports\render_1.dmp\0a7df171-a4ee-4cc0-9905-dbf2ee156b8e: The system cannot find the path specified. (0x3)
+[0104/110735.229:ERROR:crash_report_exception_handler.cc(144)] FinishedWritingCrashReport failed
+[0105/110021.788:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0106/110018.273:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0106/110309.232:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\ONE\AppData\Local\Slimjet\User Data\Crash Reports\render_2.dmp\7c417577-3b8b-4407-9251-51f1375d3b53: The system cannot find the path specified. (0x3)
+[0106/110309.241:ERROR:crash_report_exception_handler.cc(144)] FinishedWritingCrashReport failed
+[0107/110018.289:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0108/040200.653:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\ONE\AppData\Local\Slimjet\User Data\Crash Reports\render_3.dmp\1e4f172f-8be9-4acf-a913-9972c4538cda: The system cannot find the path specified. (0x3)
+[0108/040200.663:ERROR:crash_report_exception_handler.cc(144)] FinishedWritingCrashReport failed
+[0108/110018.302:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0109/064558.723:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\ONE\AppData\Local\Slimjet\User Data\Crash Reports\render_4.dmp\1d4ec4cf-6d1d-42ae-9121-b29c49b4fcc0: The system cannot find the path specified. (0x3)
+[0109/064558.732:ERROR:crash_report_exception_handler.cc(144)] FinishedWritingCrashReport failed

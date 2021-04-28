@@ -1,0 +1,40 @@
+{
+  "name": "member_pubs",
+  "version": "0.0.1",
+  "description": "An Application to manage publications",
+  "productName": "pubs",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "WFM",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "build:pwa": "quasar build -m pwa"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "@syncfusion/ej2-vue-buttons": "^17.4.39",
+    "@syncfusion/ej2-vue-grids": "^17.4.39",
+    "axios": "^0.19.0",  
+    "quasar": "^1.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@vue/eslint-config-prettier": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
